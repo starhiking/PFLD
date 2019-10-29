@@ -16,13 +16,13 @@ EASY TO TRAIN:
   
 SAMPLE IMGS:  
 
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/10.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/121.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/17.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/19.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/21.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/52.jpg)
- ![Image text](https://github.com/guoqiangqi/PFLD/blob/master/data/sample_imgs/7.jpg)
+ ![Image text](data/sample_imgs/10.jpg)
+ ![Image text](data/sample_imgs/121.jpg)
+ ![Image text](data/sample_imgs/17.jpg)
+ ![Image text](data/sample_imgs/19.jpg)
+ ![Image text](data/sample_imgs/21.jpg)
+ ![Image text](data/sample_imgs/52.jpg)
+ ![Image text](data/sample_imgs/7.jpg)
         
  SAMPLE VIDEO:  
 
